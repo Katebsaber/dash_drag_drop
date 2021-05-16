@@ -1,2 +1,2 @@
-# dash_drag_drop
+# dash sample application with drag and drop (dragula)
 Dash application with drag and drop options
